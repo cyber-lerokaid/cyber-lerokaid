@@ -12,6 +12,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-roberth-flax.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberth-santos-711068369)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:rsantoss0012@outlook.com)
 
