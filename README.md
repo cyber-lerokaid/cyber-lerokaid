@@ -92,8 +92,7 @@
 
 <div align="center">
 
-[![Roberth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber-lerokaid&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/cyber-lerokaid)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-lerokaid&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/cyber-lerokaid)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cyber-lerokaid&theme=tokyonight&hide_border=true)](https://github.com/cyber-lerokaid)
 
 </div>
 
