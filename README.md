@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cyber-lerokaid/lerokaid/main/github-header-banner.png" alt="Roberth Santos - Full Stack Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/cyber-lerokaid/cyber-lerokaid/main/github-header-banner.png" alt="Roberth Santos - Full Stack Developer" width="100%"/>
 
 <br/>
 
