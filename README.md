@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roberth Santos</h1>
-<h3 align="center">Full Stack Developer | UX/UI Enthusiast | Tech & Efficiency</h3>
 
 <p align="center">
-  Building high-impact web applications, immersive digital experiences, and smart automations.
+  <strong>Full Stack Developer | UX/UI Enthusiast | Tech & Efficiency</strong><br>
+  <i>Building high-impact web applications, immersive digital experiences, and smart automations.</i>
 </p>
 
 <p align="center">
@@ -16,17 +16,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Overview
 
-- 🔭 Currently developing **SaaS ecosystems** and high-converting modern platforms.
-- 🌱 Deepening my expertise in **React, Python, and Software Architecture** while pursuing my degree in Systems Analysis and Development (ADS).
-- ⚙️ My professional background in Logistics taught me the power of **systematic thinking, agile problem-solving, and the 5S methodology**, which I directly apply to write clean, maintainable code.
-- 🎵 When I'm not coding, you can find me producing independent trap music, playing soulslike games, or exploring the mechanics of titles like *Elden Ring* and *Wacky Worlds*.
-- ⚡ **Fun fact:** I completely reconstructed an engineering firm's entire web platform from scratch, elevating its visual authority to a tech-forward startup layout.
+Full-stack developer specializing in intuitive and high-performance web applications. I transform complex requirements into scalable solutions, optimizing operational efficiency and delivering premium user experiences. Currently advancing my academic foundation by pursuing a degree in Systems Analysis and Development (ADS).
+
+### 💡 My Work Approach
+
+My foundation in high-level Logistics and Operations deeply influences my software architecture. I apply systematic thinking and the rigorous 5S methodology to my development process. This ensures that my code is as organized, agile, and efficient as a high-performing operation. I leverage modern tools to bridge technical complexity with high-quality user interfaces, operating my main software environments in English to strictly align with global industry standards.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Language and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,7 +38,24 @@
 
 ### 🚀 Featured Projects
 
-> 💡 **Tip:** Pinned repositories on GitHub usually go right below this section, showcasing your best code. Make sure to pin projects like your SaaS and web refactoring work!
+- **[S2F Engenharia & Serviços](#)** 🏢
+  - 📄 **Description:** Complete overhaul of an institutional web platform from scratch.
+  - 🔍 **Problem:** The platform required a total visual reconstruction to present technical portfolios dynamically and safely.
+  - 💡 **The Solution:** Engineered a complete redesign adopting a tech-forward startup aesthetic. Implemented dynamic project galleries, responsive optimization for desktop and mobile, and critical enhancements in application security and hardening.
+  - 💻 **Techs:** React, Tailwind CSS, Vite.
+
+- **[SaaS Ecosystem](#)** ⚙️
+  - 📄 **Description:** End-to-end SaaS ecosystem development.
+  - 🔍 **Problem:** Need for a centralized platform offering intelligent automation for authors.
+  - 💡 **The Solution:** Developed a complete SaaS environment integrated with generative AI capabilities, focusing strictly on smart automations to scale user efficiency.
+  - 💻 **Techs:** Python, React, APIs.
+
+---
+
+### 👾 Fun Facts & Interests
+
+- 🎵 I produce and manage independent trap music releases, handling global distribution platforms.
+- 🕹️ Passionate about analyzing complex game mechanics, frequently exploring soulslike elements in titles ranging from *Elden Ring* to *Wacky Worlds*.
 
 ---
 
