@@ -1,67 +1,116 @@
-<h1 align="center">Hi 👋, I'm Roberth Santos</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full Stack Developer | UX/UI Enthusiast | Tech & Efficiency</strong><br>
-  <i>Building high-impact web applications, immersive digital experiences, and smart automations.</i>
-</p>
+<img src="https://raw.githubusercontent.com/cyber-lerokaid/cyber-lerokaid/main/github-header-banner.png" alt="Roberth Santos - Full Stack Developer" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/roberth-santos-711068369" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rsantoss0012@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br/>
 
----
+# Hi 👋, I'm Roberth Santos
 
-### 👨‍💻 Professional Overview
+### Full Stack Developer · UX/UI Enthusiast · Tech & Efficiency
 
-Full-stack developer specializing in intuitive and high-performance web applications. I transform complex requirements into scalable solutions, optimizing operational efficiency and delivering premium user experiences. Currently advancing my academic foundation by pursuing a degree in Systems Analysis and Development (ADS).
+*Building high-impact SaaS products, immersive digital experiences, and smart automations.*
 
-### 💡 My Work Approach
+<br/>
 
-My foundation in high-level Logistics and Operations deeply influences my software architecture. I apply systematic thinking and the rigorous 5S methodology to my development process. This ensures that my code is as organized, agile, and efficient as a high-performing operation. I leverage modern tools to bridge technical complexity with high-quality user interfaces, operating my main software environments in English to strictly align with global industry standards.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberth-santos-711068369)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:rsantoss0012@outlook.com)
+
+</div>
 
 ---
 
-### 🛠️ Language and Tools
+## 🧠 About Me
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,vite,html,css,python,git,vscode" alt="Roberth's Tech Stack"/>
-  </a>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- **[S2F Engenharia & Serviços](#)** 🏢
-  - 📄 **Description:** Complete overhaul of an institutional web platform from scratch.
-  - 🔍 **Problem:** The platform required a total visual reconstruction to present technical portfolios dynamically and safely.
-  - 💡 **The Solution:** Engineered a complete redesign adopting a tech-forward startup aesthetic. Implemented dynamic project galleries, responsive optimization for desktop and mobile, and critical enhancements in application security and hardening.
-  - 💻 **Techs:** React, Tailwind CSS, Vite.
-
-- **[SaaS Ecosystem](#)** ⚙️
-  - 📄 **Description:** End-to-end SaaS ecosystem development.
-  - 🔍 **Problem:** Need for a centralized platform offering intelligent automation for authors.
-  - 💡 **The Solution:** Developed a complete SaaS environment integrated with generative AI capabilities, focusing strictly on smart automations to scale user efficiency.
-  - 💻 **Techs:** Python, React, APIs.
+- 🚀 Currently building **SaaS ecosystems** and high-converting modern platforms
+- 📚 Deepening expertise in **React, TypeScript, Node.js, and Software Architecture**
+- 🎓 Pursuing a degree in **Systems Analysis and Development (ADS)**
+- ⚙️ My background in Logistics gave me **systematic thinking, agile problem-solving, and the 5S mindset** — which I apply directly to writing clean, maintainable code
+- 🎵 When I'm not coding: producing independent trap music, playing soulslike games (*Elden Ring*, *Wacky Worlds*)
+- ⚡ **Fun fact:** I completely reconstructed an engineering firm's entire web platform from scratch, elevating its visual authority to a tech-forward startup layout
 
 ---
 
-### 👾 Fun Facts & Interests
+## 🛠️ Tech Stack & Tools
 
-- 🎵 I produce and manage independent trap music releases, handling global distribution platforms.
-- 🕹️ Passionate about analyzing complex game mechanics, frequently exploring soulslike elements in titles ranging from *Elden Ring* to *Wacky Worlds*.
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,tailwind,vite,python,supabase,postgres,express,git,vscode&perline=6)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### 📊 GitHub Metrics
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyber-lerokaid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" alt="cyber-lerokaid's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-lerokaid&layout=compact&theme=tokyonight" height="180em" alt="Top Languages"/>
-</p>
+<br/>
+
+### ⚡ [TechOS](https://github.com/cyber-lerokaid/techos) — SaaS for Tech Repair Shops
+
+![Status](https://img.shields.io/badge/Status-Beta%20Open-brightgreen?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Supabase%20%7C%20Vercel-blue?style=flat-square)
+
+**📋 What it is:** A cloud-based management system (SaaS) that modernizes and digitalizes the workflow of tech repair shops — eliminating dependency on messy spreadsheets and paper notes.
+
+**🔍 Problem:** Repair shops lacked a centralized, visual tool to manage service orders, customer communication, and financials in one place.
+
+**💡 Solution:** A unified platform with a Kanban board for service orders, automated WhatsApp notifications, digital signature capture, and financial dashboards — all in a premium Dark Mode UI.
+
+**✨ Key Features:**
+- 🗂️ **Interactive Kanban Board** — drag-and-drop service order tracking
+- 🧙 **Dynamic Check-in Wizard** — fast OS opening with photo upload and digital signature
+- 📄 **Thermal Receipt Generation** — optimized print with smart contrast adaptation
+- 💬 **WhatsApp Integration** — automated quote links and status updates for customers
+- 🧪 **Demo Mode** — offline sandbox with fictional data (no account required)
+- 📊 **Dashboards** — daily revenue, average ticket, and critical stock control
+
+**🔧 Stack:** `React.js` `TypeScript` `Vite` `TailwindCSS` `Supabase` `PostgreSQL` `Vercel` `@dnd-kit` `react-signature-canvas`
+
+---
+
+### 🏗️ [Quattri Engenharia](https://github.com/cyber-lerokaid/quattri-engenharia) — Premium Engineering Platform
+
+![Status](https://img.shields.io/badge/Status-Production%20Ready-blue?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-React%2019%20%7C%20Node.js%20%7C%20Framer%20Motion-purple?style=flat-square)
+
+**📋 What it is:** Institutional web platform for a high-end engineering firm — a polished digital showcase for residential and corporate construction projects.
+
+**🔍 Problem:** The company needed a professional online presence that matched its premium positioning and could capture leads securely, without relying on generic templates.
+
+**💡 Solution:** A fully custom platform with immersive animations, a secure BFF backend with rate limiting and anti-spam protection, and a conversion-focused layout designed to attract high-value clients and architecture partners.
+
+**✨ Key Features:**
+- 🎨 **Interactive Animations** — smooth, premium transitions with Framer Motion
+- 🔒 **Secure Contact Form** — data validation + Cloudflare Turnstile anti-spam
+- 🛡️ **Robust BFF Architecture** — rate limiting, Helmet headers, and environment separation
+- 📈 **Analytics Ready** — Vercel Analytics and Speed Insights integrated
+
+**🔧 Stack:** `React 19` `TypeScript` `Vite` `TailwindCSS v4` `Framer Motion` `Node.js` `Express` `Zod` `Vercel`
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+[![Roberth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber-lerokaid&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/cyber-lerokaid)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-lerokaid&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/cyber-lerokaid)
+
+</div>
+
+---
+
+## 🕹️ GitHub Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/cyber-lerokaid/cyber-lerokaid/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Systematic thinking meets creative engineering."*
+
+</div>
